@@ -30,4 +30,4 @@ jobs:
         run: npm run build
 
       - name: Deploy
-        run: npm run deploy -- -r git@github.com:Lemoncode_Module_Cloud_Exercise2
+        run: npm run deploy -- -r git@github.com:Infernage/Lemoncode_Module_Cloud_Exercise2.git
